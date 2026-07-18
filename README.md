@@ -86,8 +86,11 @@
 ---
 
 ### 📊 GitHub Stats
+
+
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=Sachin993533&theme=default&hide_border=false" alt="GitHub Streak" /></p>
+<img src="https://streak-stats.demolab.com?user=Sachin993533&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sachin9935?theme=dark&font=Baloo%202&ext=heatmap"/>
